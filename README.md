@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @onurkrkm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, my name is Onur
+#### Development Mobile Apps
+![Development Mobile Apps](https://github.com/onurkrkm/onurkrkm/blob/main/banner.jpg)
 
-<!---
-onurkrkm/onurkrkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Onur from Turkey and I do develops android mobile apps, I'm really enjoys learning languages
+
+Skills: Java/Kotlin/Xml
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
