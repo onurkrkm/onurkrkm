@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Onur
+## Hi there 👋, My name is Onur
 #### Development Mobile Apps
 ![Development Mobile Apps](https://github.com/onurkrkm/onurkrkm/blob/main/banner.jpg)
 
